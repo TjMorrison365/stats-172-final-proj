@@ -3,6 +3,8 @@ This is a project I coded as my final exam grade for STAT 172.
 
 **File**: Final Project - STAT 172
 
+**Input**: IMDB Movies Dataset_exported.csv
+
 **Created**: November ‎20, ‎2023
 **Edited**: December ‎10, ‎2023
 **Uploaded**: January 30, 2024
@@ -18,4 +20,4 @@ Forest Model (Line 271)
 Creating GLM (Line 366)
 
 **Resources**:
-Dataset - 
+Dataset - https://www.gigasheet.com/sample-data/imdb-movies-dataset
